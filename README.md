@@ -8,7 +8,7 @@ Senior Technical Engineer | IT Infrastructure | Cybersecurity (Security+)
 ---
 
 ## 👋 About Me
-I am an IT professional with over 10 years of experience supporting enterprise
+I am an IT professional with over 5 years of experience supporting enterprise
 IT environments across multinational organizations. My background includes
 Windows and Linux administration, networking, Microsoft 365, and IT security
 fundamentals.
